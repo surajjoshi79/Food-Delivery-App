@@ -1,16 +1,28 @@
-# food_delivery_app
+# 🍽️ Flutter Food Delivery App
 
-A new Flutter project.
+A robust and user-friendly **Flutter application** for food delivery, offering an interactive dining experience with **dynamic menus**, **real-time billing and order tracking**, **secure card storage**, and **dynamic theme switching**. Designed with scalability, performance, and intuitive UI/UX in mind.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧾 **Dynamic Menu Display**: Menus update instantly with backend changes or filters
+- 💳 **Secure Card Saving**: Store payment details securely for fast checkout
+- 🕒 **Live Order & Billing Updates**: Real-time cart total, discounts, delivery charges, and ETA
+- 🎨 **Dynamic Theming**: Toggle between light and dark modes using `SharedPreferences`
+- 📱 **Responsive UI**: Adaptive across Android & iOS with Flutter’s cross-platform support
+- 🔔 **Order Notifications**: Toasts or push notifications for order confirmation & delivery status (optional)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+| Technology           | Role                                             |
+|----------------------|--------------------------------------------------|
+| Flutter              | Cross-platform mobile app development            |
+| Dart                 | Programming language                             |
+| Provider / Riverpod  | State management (cart, theme, user session)     |
+| SharedPreferences    | Persistent theme state                          |
+
+---
+
