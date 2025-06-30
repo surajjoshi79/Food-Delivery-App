@@ -11,7 +11,6 @@ A robust and user-friendly **Flutter application** for food delivery, offering a
 - 🕒 **Live Order & Billing Updates**: Real-time cart total, discounts, delivery charges, and ETA
 - 🎨 **Dynamic Theming**: Toggle between light and dark modes using `SharedPreferences`
 - 📱 **Responsive UI**: Adaptive across Android & iOS with Flutter’s cross-platform support
-- 🔔 **Order Notifications**: Toasts or push notifications for order confirmation & delivery status (optional)
 
 ---
 
